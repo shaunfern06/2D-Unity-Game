@@ -1,4 +1,4 @@
-# Shape Shooter
+# Shape-Shooter
 
 ## ***Game is playable on https://shaun-fern.itch.io/shape-shooter***
 
